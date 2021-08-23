@@ -42,7 +42,7 @@ public class luizfernandoServlet extends HttpServlet {
             out.println("<body>");
             out.println("<h1>LUIZ FERNANDO SANTOS GOMES</h1>");
             out.println("<h2>RA:1290481912051</h2>");
-            out.println("<h2><a href=https://github.com/luizfernando101189/fpg-ads-poo-2021-2-not>Github</a></h2>");
+            out.println("<h2><a href=https://github.com/luizfernando101189/fpg-ads-poo-2021-2-not/tree/main/ProjetoMathServlet>Github</a></h2>");
             out.println("<h3><a href='index.jsp'>Voltar</a></h3>");
             out.println("</body>");
             out.println("</html>");
